@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Jonas Paiva</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h3 align="center">Um desenvolvedor Front-end apaixonado do Brazil</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=jonas-paiva&label=Profile%20views&color=0e75b6&style=flat" alt="jonas-paiva" /> </p>
 
@@ -19,4 +19,3 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonas-paiva&show_icons=true&locale=en" alt ="jonas-paiva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-paiva&" alt= "jonas-paiva" /></p>
-
