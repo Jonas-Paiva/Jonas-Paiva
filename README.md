@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Jonas-Paiva/Jonas-Paiva/blob/output/snake.svg" alt="Snake animation" />
+<img href="./Jonas-Paiva-2022.stl"/>
 
 ###
 
